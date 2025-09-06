@@ -26,12 +26,12 @@ También me destaco en el uso del inglés, logrando comunicarme fluidamente. Obt
 - **Implementación de WordPress con Amazon RDS**
     - En este desafío aprendimos a utilizar las herramientas de AWS para levantar servicios web y de base de datos.
     - Herramientas: EC2, RDS, WordPress, MySQL
-    - imagenes de ejemplo
+    - ![](https://github.com/pcortesduoc/desafio-latam-portafolio/blob/main/assets/wordpress/1_2.png?raw=true)
+    - ![](https://github.com/pcortesduoc/desafio-latam-portafolio/blob/main/assets/wordpress/3_2.png?raw=true)
     - [Archivo completo](https://github.com/pcortesduoc/desafio-latam-portafolio/raw/refs/heads/main/assets/Pablo%20cortes%20G6%20Desaf%C3%ADo%20-%20Servicios%20de%20Base%20de%20Datos%20-%20Implementaci%C3%B3n%20de%20WordPress%20con%20Amazon%20RDS.docx)
 - **EC2 y RDS**
     - En este desafío profundizamos el conocimiento de AWS a través del uso de VPC, subredes, servicios públicos y privados.
-    - Herramientas: EC2, RDS, VPC, MySQL
-    - imagenes de ejemplo
+    - Herramientas: EC2, RDS, VPC, Subnet, Security Groups, MySQL
+    - ![](https://github.com/pcortesduoc/desafio-latam-portafolio/blob/main/assets/RDS/1_2.png?raw=true)
+    - ![](https://github.com/pcortesduoc/desafio-latam-portafolio/blob/main/assets/RDS/2_2.png?raw=true)
     - [Archivo completo](https://github.com/pcortesduoc/desafio-latam-portafolio/raw/refs/heads/main/assets/Pablo%20Cortes%20g6%20Desaf%C3%ADo%20-%20EC2%20y%20RDS.docx)
-
-![This is an alt text.](/image/sample.webp "Foto perfil")
